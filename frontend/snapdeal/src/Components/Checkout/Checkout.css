@@ -1,0 +1,58 @@
+.success-card{
+    width: 25%;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+    position: relative;
+    top: 139px;
+}
+
+.img-success-card img{
+    width: 100px;
+}
+
+.img-success-card{
+    display: flex;
+    justify-content: center;
+}
+
+.inside-success-card{
+    position: relative;
+    top: 15px;
+}
+
+.my-orders-button{
+    background-color: #e40046;
+    border: none;
+    color: #fff;
+    width: 55%;
+    margin: auto;
+    /* position: relative; */
+    display: flex;
+    justify-content: center;
+    padding: 10px 10px 10px 10px;
+    font-size: 13px;
+    border-radius: 5px;
+}
+
+.inside-success-card p{
+    font-size: 15px;
+    margin-top: 12px;
+    font-weight: 400;
+}
+
+.success-footer{
+    position: relative;
+    top: 420px;
+}
+
+
+.success-hr{
+    position: relative;
+    top: -263px;
+}
+
+
+

@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,300;1,300&family=Roboto:ital,wght@0,300;0,400;0,500;1,100&family=Signika+Negative:wght@600&family=Teko:wght@700&display=swap');
+
+body {
+  margin: 0;
+  box-sizing: border-box;
+  font-family: 'Signika Negative', sans-serif;
+    height: 100vh;
+    /* background: linear-gradient(#E30047, #d78ca4); */
+    overflow-x: hidden;
+    fill: #E30047 !important;
+    color: #000000 !important;
+}
+
+.currentColor{
+  fill: #E30047 !important;
+}

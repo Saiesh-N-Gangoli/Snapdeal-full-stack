@@ -1,0 +1,137 @@
+.NavImage img{
+    width: 83px;
+    height: 23px;
+}
+
+.NavImage{
+    background-color: white;
+    padding: 10px 10px;
+}
+
+.bgs{
+    background-color: #e40046 !important;
+    display: flex;
+    /* border-bottom: 2px solid #fff; */
+}
+
+.bgst{
+    background-color: #be033b !important;
+    height: 32px;
+    display: flex;
+    /* border-bottom: 2px solid #fff; */
+}
+
+.FlexMaking{
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+    width: 1147px;
+}
+
+.search-bar{
+    width: 600px;
+    font-size: 12px;
+    padding: 5px 5px;
+}
+
+.Search-Button{
+    background-color: #333 !important;
+    color: #fff !important;
+    width: 150px;
+    border: 1px solid black !important;
+}
+
+.Search-Button:hover{
+    cursor: pointer !important;
+    background-color: #3f3f3f;
+}
+
+.icon-search{
+    color: #ffffff;
+    margin-right: 5px;
+    bottom: 2px;
+    position: relative;
+}
+
+.icon-here{
+    color: #fff;
+}
+
+.Containers{
+    display: flex;
+    position: relative;
+    right: 36px;
+}
+
+.color{
+    color: #fff !important;
+}
+
+.nav-link{
+    color: #fff !important;
+}
+
+.mens{
+    width: 23px;
+    height: 22px;
+    border-radius: 24px;
+    margin-right: 8px;
+}
+
+.Brands{
+    color: white !important;
+    margin-left: -64px !important;
+    font-size: 13px !important;
+}
+
+.NaveLinks{
+    text-decoration: none;
+    color: black;
+    font-weight: 400;
+    position: relative;
+    left: 15px;
+}
+
+.span-tag{
+    position: relative;
+    bottom: 7px;
+    left: -5px;
+    background-color: #fff;
+    color: #000;
+    display: inline-block;
+    width: 18px;
+    border-radius: 25px;
+    height: 18px;
+}
+
+.span-tag-in{
+    position: relative;
+    left: 5px;
+    bottom: 5px;
+    font-size: 12px;
+    font-weight: 600;
+}
+
+.dummy-after .dropdown-toggle::after{
+    display: none !important;
+}
+
+.dummy-after .dropdown-menu{
+    position: absolute;
+    left: -58px;
+}
+
+/* .dropdown-menu.show{
+    left: -58px !important;
+    top: 50px !important;
+    border-radius: 0;
+} */
+
+.logout-button{
+    width: 100%;
+    color: white;
+    background: #000;
+    border: none;
+    font-size: 12px;
+    padding: 5px;
+}

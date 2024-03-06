@@ -1,0 +1,57 @@
+.contains{
+    display: flex;
+    position: relative;
+    top: 100px;
+    justify-content: space-around;
+    border-bottom: 1px solid black;
+    padding-bottom: 20px;
+}
+
+.gridss{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+}
+
+.Footeres{
+    position: relative;
+    top: 362px;
+}
+
+.Sort-but{
+    display: flex;
+    flex-direction: fl;
+    justify-content: space-between;
+    position: relative;
+    right: 21px;
+}
+
+.Sort-but p{
+    position: relative;
+    left: -67px;
+    font-weight: bolder;
+    top: 7px;
+    font-size: 13px;
+}
+
+.formselect{
+    font-size: 12px;
+    padding: 5px 5px;
+    font-weight: bold;
+}
+
+.ProductCard {
+    display: flex;
+    flex-direction: start;
+    margin: 15px;
+}
+
+.Forns{
+    position: relative;
+    right: -58px;
+}
+
+.zero{
+    border: 1px solid black;
+    position: relative;
+    right: -67px;
+}

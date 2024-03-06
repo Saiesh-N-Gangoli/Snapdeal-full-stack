@@ -1,0 +1,127 @@
+.MainContainer{
+    display: flex;
+    position: relative;
+    top: -272px;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+}
+
+.ImgContent{
+    position: absolute;
+    top: 50%;
+    left: 52%;
+    transform: translate(-50%, -50%);
+    padding: 10px;
+}
+
+.ImgContent h1{
+    font-weight: bold;
+}
+
+.smallContent{
+    margin-top: 32px;
+}
+
+.smallContent p{
+    font-weight: lighter;
+}
+
+.sideImg{
+    position: absolute;
+    top: 0px;
+    right: 0px;
+}
+
+.first-image{
+    height: 120px;
+    display: block;
+    position: relative;
+    bottom: 37px;
+    right: 23px;
+}
+
+.second-image{
+    height: 54px;
+    display: block;
+    position: relative;
+    bottom: 4px;
+    right: 38px;
+}
+
+.first-image:hover, .second-image:hover{
+    cursor: pointer;
+}
+
+.downloadapp{
+    display: flex;
+}
+
+.below-footer{
+    display: flex;
+    /* align-items: center; */
+    justify-content: center;
+    position: relative;
+    bottom: 241px;
+    height: 0px;
+    
+}
+
+.FirstSmall ul li{
+    list-style: none;
+    font-size: 13px;
+    margin-bottom: 7px;
+}
+
+.FirstSmall ul{
+    position: relative;
+    right: 31px;
+}
+
+.FirstSmall h4{
+    font-size: 15px;
+    font-weight: 700;
+}
+
+.inside-footer h4{
+    font-size: 15px;
+    font-weight: 700;
+}
+
+.inside-footer input{
+    font-size: 13px;
+}
+
+.inside-footer button{
+    font-size: 13px;
+    background-color: #333;
+    color: #fff;
+    position: relative;
+    left: 8px;
+    border: none;
+    padding: 3px 3px;
+    /* height: 30px; */
+}
+
+.inside-footer p{
+    font-size: 13px;
+    margin-bottom: 0rem !important;
+}
+
+.FirstSmall{
+    height: 200px;
+    margin: 0px 30px 0px 30px;
+}
+
+.content-p{
+    margin-top: 10px;
+}
+
+.container-stretch{
+    display: flex;
+    justify-content: space-between;
+}
+
+.mycon img{
+    height: 35px;
+    margin: 0px 5px 0px 5px;
+}

@@ -1,0 +1,42 @@
+.FirstLoc{
+    width: 18rem;
+    height: 300px; 
+    position: relative;
+    top: 19px;
+    left: 31px;
+}
+
+.LocImg{
+    width: 117px;
+    margin: auto;
+    position : relative;
+    top : 10px;
+}
+
+.LocIn{
+    display: block;
+    margin: auto auto 13px auto;
+    width : 250px;
+    font-size : 14px;
+}
+
+.LocBut{
+    width: 189px;
+    margin-right : 6px;
+    background-color: #333;
+    border : none;
+    font-size : 14px;
+}
+
+.LocP{
+    font-size: 12px;
+    margin-top: 10px;
+    text-align: center;
+}
+
+.iconss{
+    width: 13px;
+    position: relative;
+    bottom: 2px;
+    right: 2px;
+}

@@ -1,0 +1,133 @@
+.SideBar{
+    height: 710px;
+    width: 184px;
+    /* background-color: aqua; */
+    border-right: 2px solid #e30047;
+    border-bottom: 2px solid #e30047;
+    display: flex;
+    /* position: fixed; */
+    /* display: block; */
+}
+
+.TopCat li{
+    list-style: none;
+    text-decoration: none;
+    margin-bottom: 15px;
+}
+
+.TopCat{
+    margin-left: -17px;
+}
+
+
+
+.TopCats li{
+    list-style: none;
+    text-decoration: none;
+    margin-bottom: 12px;
+}
+
+.horizontalline{    border: 1px solid #e30047;
+    width: 125%;
+}
+/* 
+.Overflowing{
+    overflow-x: hidden;
+} */
+
+.cars{
+    left: 220px;
+    top: 14px;
+    width: 800px;
+}
+
+.cars img{
+    width: 800px;
+    height: 200px;
+}
+
+.NavFlex{
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    top: 10px;
+}
+
+.Main-Side{
+    display: flex;
+    position: relative;
+    top: 93px;
+}
+
+.ImageCar img{
+    width: 750px;
+    height: 300px;
+}
+
+.ImageCar{
+    width: 750px;
+    height: 300px;
+}
+
+.something{
+    top: 20px;
+    position: relative;
+    left: 20px;
+}
+
+.QRImg{
+    display: block;
+    margin: auto;
+}
+
+.QRDetails h5{
+    font-size: 12px;
+    margin-top: 8px;
+}
+
+.QRDetails h6{
+    font-size: 10px;
+    margin-top: 8px;
+}
+
+.QrScanner{
+    position: relative;
+    top: 30px;
+    left: 16px;
+}
+
+.LinkMe{
+    text-decoration: none;
+    color: #000;
+}
+
+.LinkMe:hover{
+   font-weight: 500;
+   text-decoration: underline;
+   text-underline-offset: 8px;
+   text-decoration-color: #e30047;
+}
+
+.top-categ{
+    position: relative;
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    left: 18px;
+    align-items: center;
+}
+
+.loop-img{
+    border-radius: 79px ;
+        width: 28px;
+        height: 30px;
+}
+
+.top{
+    position: relative;
+    left: 19px;
+    text-decoration: underline;
+    text-underline-offset: 5px;
+    text-decoration-color: #e30047;
+}

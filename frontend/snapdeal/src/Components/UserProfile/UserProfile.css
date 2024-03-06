@@ -1,0 +1,43 @@
+.image-name-container{
+    width: 23%;
+    position: relative;
+    top: 119px;
+    margin: auto;
+}
+
+.girl-prof{
+    width: 50%;
+    margin: auto;
+    border-radius: 101px;
+    position: relative;
+    top: 17px;
+}
+
+.upper-container{
+    display: flex;
+}
+
+.left-of-image-container{
+    position: relative;
+    top: 137px;
+    right: 212px;
+    width: 38%;
+}
+
+.profile-heading{
+    position: relative;
+    top: 105px;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.w-316{
+    width: 475px;
+}
+
+.mdoutline{
+    position: relative;
+    bottom: 2px;
+    width: 30px;
+    height: 19px;
+}

@@ -1,0 +1,16 @@
+.additional-stuff{
+    position: relative;
+    top: 5px;
+    /* right: -170px; */
+}
+
+.paymenter{
+    width: 66%;
+    position: relative;
+    top: 101px;
+} 
+
+.main-checkout{
+    display: flex;
+    flex-direction: column;
+}

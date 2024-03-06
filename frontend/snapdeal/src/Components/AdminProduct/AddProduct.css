@@ -1,0 +1,127 @@
+.containerss{
+    position: relative;
+    top: 95px;
+    width: 57%;
+}
+
+.Label{
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.placeHolding{
+    font-size: 12px;
+}
+
+.button-class{
+    position: relative;
+    top: 10px;
+    color: #fff;
+    background-color: #e40046;
+    border: none;
+    padding: 8px 8px;
+    width: 98px;
+}
+
+.img-logo{
+    width: 102px;
+    height: 25px;
+}
+
+.card-g{
+    height: 294px;
+    width: 293px;
+}
+
+.img-in{
+    width: 145px;
+}
+
+.flex-card{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.card-link+.card-link {
+   margin-left: 0;
+}
+
+.container-fluid-k{
+    margin: auto;
+    width: 50%;
+    position: relative;
+    top: 72px;
+}
+
+.card-left{
+    position: relative;
+    left: 152px;
+}
+
+.btn-add-cat{
+    width: 100%;
+    position: relative;
+    top: 8px;
+}
+
+.flex-add{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.table-adjust{
+    margin: auto;
+    width: 80%;
+}
+
+.left-button{
+    position: relative;
+    left: 10px;
+}
+
+.action{
+    position: relative;
+    left: 156px;
+}
+
+.under-b{
+    border-bottom: 2px solid #e40046;
+}
+
+.hovering a:hover{
+    text-decoration: underline;
+    text-decoration-color:#e40046;
+    text-underline-offset: 6px;
+    font-weight: 500;
+}
+
+.widths{
+    width: 334px;
+}
+
+
+.margines{
+    margin-bottom: 20px;
+    width: 371px;
+    margin-left: 9px;
+}
+
+.forms{
+    width: 1000px;
+}
+
+.first-line{
+    display: flex;
+    /* justify-content: center; */
+}
+
+.form-product{
+    font-size: 13px;
+}
+
+.form-product input{
+    font-size: 13px;
+}

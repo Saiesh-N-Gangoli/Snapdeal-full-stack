@@ -1,0 +1,11 @@
+.spinner-class{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    width: 100%;
+    height: 100vh;
+    color: #e40046;
+    flex-direction: column;
+}
